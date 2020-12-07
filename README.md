@@ -18,6 +18,15 @@ At the moment it runs slower than intended on most computers. It seems to run fa
 
 ## Incomplete features
  - Ghosts shown should be the fasest ghosts recorded, at the moment it is the first ghosts recorded.
+ - More cars (art for these were already completed).
 
 ## Bugs
  - The slowest time sometimes appears at the top of the leaderboard, however, the splits are still correct for the fastest time.
+ 
+## Improvements
+ - Improve performance.
+ - Put picture/database files into a separate folders.
+ - Split main file into multiple files and refactor entire codebase.
+ - Add AI to learn the best racing lines.
+ - Add a mode to compare human runs to AI ones, to see where the human player can improve.
+ - Add more tracks.
